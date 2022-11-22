@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-footer {
+  height: 7vh;
+  background-color: #282c34;
+  color: white;
+}
+
+.custom-jumbo {
+  height: 38vh;
+  background-color: magenta;
+  color: whitesmoke;
+}
+
+.book-card-img {
+  height: 350px;
+}
+
+.custom-subtitle {
+  font-size: 28px;
+}
